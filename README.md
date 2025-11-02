@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Alexandra (Sasha)
 
-<!--
-**saintneva/saintneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💎 Data Analyst | From Geology to Data Science
 
-Here are some ideas to get you started:
+**Welcome to my GitHub!** I'm transitioning from geological research to data analytics, bringing a scientific approach to data exploration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Currently Working On
+- Building my data analytics portfolio
+- SQL and Python projects for real business cases
+- Automating data processing workflows
+
+#### 🌱 Currently Learning
+- Advanced SQL and query optimization
+- PySpark for big data processing
+- Data visualization best practices
+- ClickHouse for analytical databases
+
+#### ⚡ My Tech Stack
+```python
+{
+  "languages": ["Python", "SQL"],
+  "python_libs": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+  "databases": ["ClickHouse", "PostgreSQL"],
+  "tools": ["Git", "Jupyter Notebook", "VS Code"]
+}
